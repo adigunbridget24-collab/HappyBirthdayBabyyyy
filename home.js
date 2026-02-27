@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const birthdayDate = new Date('February 27, 2026 00:00:00').getTime();
 
     // CUSTOMIZE: Change this greeting message
-    const greetingText = "Oko mi, happy birthday! 💖";
+    const greetingText = "Oko mi, you're such a wonderful person and you deserve to be celebrated in the best ways possible 💖";
 
     // CUSTOMIZE: Change floating elements if desired
     const floatingElements = ['💖', '✨', '🌸', '💫', '💕'];
@@ -201,5 +201,6 @@ document.addEventListener('DOMContentLoaded', function() {
     updateCountdown();
     setInterval(updateCountdown, 1000);
 });
+
 
 
