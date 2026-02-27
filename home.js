@@ -15,10 +15,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ===== CONFIGURATION - CUSTOMIZE THESE! =====
     // CUSTOMIZE: Set the birthday date (format: 'Month Day, Year HH:MM:SS')
-    const birthdayDate = new Date('January 25, 2025 00:00:00').getTime();
+    const birthdayDate = new Date('February 28, 2026 00:00:00').getTime();
 
     // CUSTOMIZE: Change this greeting message
-    const greetingText = "Hey [NAME]! You're one of the most amazing people I've ever known! 💖";
+    const greetingText = "Oko mi! You're best person I know, baby 💖";
 
     // CUSTOMIZE: Change floating elements if desired
     const floatingElements = ['💖', '✨', '🌸', '💫', '💕'];
@@ -201,3 +201,4 @@ document.addEventListener('DOMContentLoaded', function() {
     updateCountdown();
     setInterval(updateCountdown, 1000);
 });
+
