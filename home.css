@@ -24,7 +24,7 @@ body {
     width: 20px;
     height: 20px;
     /* CUSTOMIZE: Change cursor color */
-    background: blue;
+    background: glowing green;
     border-radius: 50%;
     position: fixed;
     pointer-events: none;
@@ -295,4 +295,5 @@ h1 {
     * { cursor: auto !important; }
     .cursor { display: none !important; }
 }
+
 
