@@ -36,27 +36,27 @@ if (localStorage.getItem('musicPlaying') === 'true') {
 // - gif: Animation file to show (optional, use animation-1.gif or animation-2.gif)
 const reasons = [
     {
-        text: "Because you always know how to make me smile! 💖",
+        text: "Because you always know how to make me happy 💖",
         emoji: "✨",
         gif: "gif1.gif"
     },
     {
-        text: "Because you're the best listener I know! 🌸",
+        text: "Because you're the sweetest person I know 🌸",
         emoji: "💫",
         gif: "gif2.gif"
     },
     {
-        text: "Because your laugh is contagious! ✨",
+        text: "Because you're so smart and considerate✨",
         emoji: "🌟",
         gif: "gif1.gif"
     },
     {
-        text: "Because you make every moment special! 🎂",
+        text: "Because you make every moment special 🎂",
         emoji: "💖",
         gif: "gif2.gif"
     },
     {
-        text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
+        text: "Because you're simply amazing baby .Here's to another wonderful year, oko mi! 🎉",
         emoji: "🎊",
         gif: "gif1.gif"
     }
@@ -186,3 +186,4 @@ document.addEventListener('mousemove', (e) => {
 
 // Create initial floating elements
 setInterval(createFloatingElement, 2000);
+
